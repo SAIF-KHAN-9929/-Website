@@ -1,0 +1,298 @@
+/* Base styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background-color: #333;
+    color: #fff;
+}
+
+.icon .logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+.menu ul li {
+    margin: 0 15px;
+}
+
+.menu ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+}
+
+.srch {
+    padding: 8px;
+    font-size: 14px;
+    border: none;
+    border-radius: 4px;
+}
+
+.btn {
+    background-color: #ff5722;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    margin-left: 5px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.content {
+    text-align: center;
+    padding: 80px 20px;
+}
+
+.content h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.content h1 span {
+    color: #ff5722;
+}
+
+.par {
+    font-size: 18px;
+    margin: 20px 0;
+    line-height: 1.6;
+}
+
+.cn {
+    background-color: #ff5722;
+    color: #fff;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+.cn a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.form {
+    margin: 40px auto;
+    max-width: 400px;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.form h2 {
+    margin-bottom: 20px;
+}
+
+.form input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.btnn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #ff5722;
+    color: #fff;
+    border: none;
+    text-align: center;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btnn a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.link {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.icons a {
+    color: #333;
+    font-size: 24px;
+    margin: 0 10px;
+}
+
+/* Base styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
